@@ -66,8 +66,8 @@ footer {
     width: 50vw;
   }
   article {
-    min-width: calc(50vw - 2rem);
-    max-width: calc(50vw - 2rem);
+    min-width: calc(50vw - 1rem);
+    max-width: calc(50vw - 1rem);
   }
 }
 
